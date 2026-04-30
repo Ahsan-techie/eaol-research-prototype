@@ -1,0 +1,3 @@
+"""
+EAOL research prototype
+"""
