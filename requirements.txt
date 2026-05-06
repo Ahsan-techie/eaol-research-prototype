@@ -1,0 +1,15 @@
+langgraph
+anthropic
+openai
+redis
+psycopg2-binary
+pddl
+pydantic
+numpy
+scipy
+pandas
+structlog
+pytest
+pytest-asyncio
+ruff
+mypy
