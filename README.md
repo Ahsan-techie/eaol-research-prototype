@@ -2,7 +2,7 @@
 
 Research prototype for a PhD project at Teesside University, supervised by Professor Annalisa Occhipinti, in partnership with MCD Systems.
 
-> **Status:** Phase 0 - design and literature review.Prototype implementation begins in Phase 1.
+> **Status:** Phase 0 - design and literature review. Prototype implementation begins in Phase 1.
 
 ## Aim
 
@@ -32,4 +32,4 @@ Apache 2.0.
 
 ## Contact
 
-Ahsan — PhD applicant, Teesside University.
+Ahsan (PhD applicant, Teesside University).
