@@ -25,6 +25,14 @@ See [`ROADMAP.md`](ROADMAP.md).
 - **Phase 1 (Months 1–12):** Requirements and architecture design.
 - **Phase 2 (Months 10–28):** Prototype build and controlled evaluation.
 - **Phase 3 (Months 26–42):** Industrial deployment with MCD Systems.
+## Related work
+
+In parallel with this prototype, I maintain a public learning repository
+documenting hands-on experiments with LangGraph, multi-agent patterns, and
+verification workflows. These experiments inform design decisions in the
+EAOL prototype.
+
+→ [agentic-AI](https://github.com/Ahsan-techie/agentic_AI)
 
 ## Licence
 
